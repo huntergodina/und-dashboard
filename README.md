@@ -1,5 +1,5 @@
-# University of Nebraska - Omaha Dance Marathon Dashboard
-This repository represents a dashboard for the UNO dance marathon event day.
+# University of North Dakota Dance Marathon Dashboard
+This repository represents a dashboard for the UND dance marathon event day.
 
 # Getting Started with Create React App
 

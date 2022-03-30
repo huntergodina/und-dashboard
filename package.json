@@ -1,6 +1,6 @@
 {
-  "homepage": "http://huntergodina.github.io/unodm-dashboard",
-  "name": "unodm-dashboard",
+  "homepage": "http://huntergodina.github.io/und-dashboard",
+  "name": "und-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
